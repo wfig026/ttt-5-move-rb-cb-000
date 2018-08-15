@@ -8,4 +8,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 input = gets.strip
 input_to_index(input)
 move(board, index, "X")
-display_board(board, index, "Xle")
+display_board(board, index, value)
